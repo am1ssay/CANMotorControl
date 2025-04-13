@@ -79,4 +79,4 @@ CANMotorControl/
 ```
 
 ## Лицензия  
-MIT License - подробности в файле [LICENSE](LICENSE)
+Подробности в файле [LICENSE](LICENSE)
