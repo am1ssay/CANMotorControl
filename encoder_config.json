@@ -1,0 +1,7 @@
+{
+    "node_ids": [2, 4],
+    "encoder_params": {
+        "resolution": 1024,
+        "full_circle": 360.0
+    }
+}
